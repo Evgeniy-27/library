@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/library.git"
+  },
+  "author": "Evgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/library/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/library#readme",
+  "dependencies": {
+    "@evgeniy-27/ajs-homeworks": "^1.0.0"
+  }
+}
